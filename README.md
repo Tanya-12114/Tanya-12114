@@ -6,9 +6,9 @@ Computer Science Undergraduate at SRM Institute of Science and Technology | 3rd 
 
 ## 👨‍💻 About Me
 
-- 💻 Frontend developer focused on building responsive and user-friendly web applications    
-- 🤝 Open to collaboration on meaningful and impactful projects  
-- 🎯 Goal: Write clean, maintainable, and scalable code  
+ 💻 Frontend developer focused on building responsive and user-friendly web applications    
+ 🤝 Open to collaboration on meaningful and impactful projects  
+ 🎯 Goal: Write clean, maintainable, and scalable code  
 
 
 
