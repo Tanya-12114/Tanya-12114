@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanya Sharma</h1>
 <h3 align="center">
-Computer Science Undergraduate at SRM Institute of Science and Technology (2023-2027)
+Computer Science 3rd Year Student at SRM Institute of Science and Technology (2023-2027)
 </h3>
 
 <p align="center">
