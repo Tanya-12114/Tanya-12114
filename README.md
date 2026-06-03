@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanya Sharma</h1>
 <h3 align="center">
-Computer Science Undergraduate at SRM Institute of Science and Technology (Expected 2027)
+Computer Science Undergraduate at SRM Institute of Science and Technology (2023-2027)
 </h3>
 
 <p align="center">
@@ -43,13 +43,6 @@ Computer Science Undergraduate at SRM Institute of Science and Technology (Expec
 ### Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" alt="Profile Details" width="48%" />
 </p>
 
 ---
