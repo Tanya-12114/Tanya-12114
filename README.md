@@ -42,7 +42,7 @@ Computer Science Undergraduate at SRM Institute of Science and Technology (Expec
 
 ### Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ## 📊 GitHub Analytics
