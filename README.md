@@ -93,6 +93,7 @@
 ---
 
 <div align="center">
+  
 ### 🤝 Let's Connect
  
 Open to **SDE / Full Stack** roles and internships. The quickest way to reach me is LinkedIn or email, both at the top of this page.
