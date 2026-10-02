@@ -34,28 +34,37 @@
 
 #### 🧾 [Resume Builder with AI-Based ATS Evaluation](https://github.com/Tanya-12114/AI-resume-builder.git)
 `React.js` `Node.js` `Express.js` `MongoDB` `HTML5` `CSS3`
-- Full-stack web app to create and download professional resumes
-- Built REST APIs with Node.js & Express.js to manage user data and resume templates
+- Full-stack web app to create, preview and download professional resumes
+- AI-based ATS evaluation that scores a resume and highlights areas to improve
+- REST APIs built with Node.js & Express.js to manage user data and resume templates
 - Responsive React.js interface for dynamic resume generation, backed by MongoDB
 
-#### 🚦 [Real-Time Spatio-Temporal Traffic Density Forecasting](https://github.com/Tanya-12114/traffic-flow-prediction.git) · [Live Demo](https://traffic-flow-predictiongit-7jsokhdenoixm8quspv3mh.streamlit.app/)
+<a href="[https://YOUR-RESUME-BUILDER-LIVE-URL](https://ai-resume-builder-three-psi.vercel.app/)"><img src="https://img.shields.io/badge/Live_Demo-%E2%86%92-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+
+#### 🚦 [Real-Time Spatio-Temporal Traffic Density Forecasting](https://github.com/Tanya-12114/traffic-flow-prediction.git)
 `Python` `PyTorch` `YOLO11` `OpenCV` `Streamlit` `Plotly`
 - End-to-end pipeline that forecasts traffic density from video using a CNN-BiLSTM with temporal attention, with YOLO11 + ByteTrack for vehicle detection and unique-vehicle counting
-- Kalman (RTS) smoothing for stable density curves, plus a GNN fusion layer that propagates traffic state across a multi-camera road network
+- Kalman (RTS) smoothing for stable density curves, plus a GNN fusion module that propagates traffic state across a multi-camera road network
 - Live-stream mode with online learning (replay-buffer fine-tuning) and real-time incident alerts for stopped vehicles, density spikes and congestion
 - Interactive Streamlit dashboard supporting YouTube, uploaded video, webcam and RTSP inputs
 
+<a href="https://traffic-flow-predictiongit-7jsokhdenoixm8quspv3mh.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-%E2%86%92-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+
 #### 📈 [Multi-Model Stock Price Forecasting Platform](https://github.com/Tanya-12114/stock-price-predictor.git)
 `Python` `Streamlit` `Pandas` `NumPy` `Scikit-learn`
-- ML model to predict stock prices using historical market data
-- Data preprocessing & visualization with Pandas and Matplotlib
-- Interactive Streamlit interface for real-time predictions
+- Forecasts stock prices from historical market data using multiple ML models
+- Data preprocessing and visualization with Pandas and Matplotlib
+- Interactive Streamlit interface for generating and comparing predictions
+
+<a href="[https://YOUR-STOCK-PREDICTOR-LIVE-URL](https://stock-price-predictorgit-jb8qrcyonqdppfvsjr8bbj.streamlit.app/)"><img src="https://img.shields.io/badge/Live_Demo-%E2%86%92-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 
 #### ✈️ [Voyagr - Travel Planning Platform](https://github.com/Tanya-12114/smart-travel-planner.git)
 `Next.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
-- Scalable travel planning app for trip management, itineraries, expense tracking & map-based views
+- Full-stack travel planning app for trip management, itineraries, expense tracking & map-based views
 - JWT authentication and optimized REST APIs for secure, efficient data handling
 - Real-time weather API integration with a responsive, animated UI
+
+<a href="[https://YOUR-VOYAGR-LIVE-URL](https://smart-travel-planner-bay.vercel.app/)"><img src="https://img.shields.io/badge/Live_Demo-%E2%86%92-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 
 ---
 
@@ -74,11 +83,6 @@
 **Backend, Databases & Cloud**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
-</p>
-
-**AI / Machine Learning**
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,pandas,numpy" />
 </p>
 
 **Tools & DevOps**
