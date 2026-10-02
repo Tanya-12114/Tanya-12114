@@ -32,7 +32,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🧾 [Smart Resume Builder](https://github.com/Tanya-12114/AI-resume-builder.git)
+#### 🧾 [Resume Builder with AI-Based ATS Evaluation](https://github.com/Tanya-12114/AI-resume-builder.git)
 `React.js` `Node.js` `Express.js` `MongoDB` `HTML5` `CSS3`
 - Full-stack web app to create and download professional resumes
 - Built REST APIs with Node.js & Express.js to manage user data and resume templates
@@ -44,13 +44,13 @@
 - Interactive analytics cards and navigation sidebar
 - Deepened understanding of component-based architecture and state management
 
-#### 📈 [Stock Price Predictor](https://github.com/Tanya-12114/stock-price-predictor.git)
+#### 📈 [Multi-Model Stock Price Forecasting Platform](https://github.com/Tanya-12114/stock-price-predictor.git)
 `Python` `Streamlit` `Pandas` `NumPy` `Scikit-learn`
 - ML model to predict stock prices using historical market data
 - Data preprocessing & visualization with Pandas and Matplotlib
 - Interactive Streamlit interface for real-time predictions
 
-#### ✈️ [Smart Travel Planner](https://github.com/Tanya-12114/smart-travel-planner.git)
+#### ✈️ [Voyagr - Travel Planning Platform](https://github.com/Tanya-12114/smart-travel-planner.git)
 `Next.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 - Scalable travel planning app for trip management, itineraries, expense tracking & map-based views
 - JWT authentication and optimized REST APIs for secure, efficient data handling
