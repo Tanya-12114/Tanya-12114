@@ -23,7 +23,7 @@
 
 - 🎓 **B.Tech, Computer Science & Engineering** — SRM IST, Ghaziabad (2023 – 2027) ·
 - 💻 Full-stack developer experienced in **React.js, Node.js, Express.js, MongoDB**, building scalable, data-driven web apps
-- 🤖 Hands-on with **AI/ML** — Python, Pandas, NumPy, Scikit-learn, predictive modeling
+- 🤖 Hands-on with **AI/ML** — Python, PyTorch, Pandas, NumPy, Scikit-learn, computer vision, predictive modeling
 - 📐 Strong foundation in **Data Structures & Algorithms, OOPs, DBMS, SQL, REST APIs**
 - 🌱 Currently exploring deeper ML frameworks and scalable backend architecture
 - 🎯 Seeking **Software Developer / Full Stack Developer** opportunities
@@ -38,11 +38,12 @@
 - Built REST APIs with Node.js & Express.js to manage user data and resume templates
 - Responsive React.js interface for dynamic resume generation, backed by MongoDB
 
-#### 📊 [Admin Dashboard](https://github.com/Tanya-12114/admin-dashboard-vite.git)
-`React.js` `Vite` `CSS`
-- Responsive admin dashboard with authentication and protected routing
-- Interactive analytics cards and navigation sidebar
-- Deepened understanding of component-based architecture and state management
+#### 🚦 [Real-Time Spatio-Temporal Traffic Density Forecasting](https://github.com/Tanya-12114/traffic-flow-prediction.git) · [Live Demo](https://traffic-flow-predictiongit-7jsokhdenoixm8quspv3mh.streamlit.app/)
+`Python` `PyTorch` `YOLO11` `OpenCV` `Streamlit` `Plotly`
+- End-to-end pipeline that forecasts traffic density from video using a CNN-BiLSTM with temporal attention, with YOLO11 + ByteTrack for vehicle detection and unique-vehicle counting
+- Kalman (RTS) smoothing for stable density curves, plus a GNN fusion layer that propagates traffic state across a multi-camera road network
+- Live-stream mode with online learning (replay-buffer fine-tuning) and real-time incident alerts for stopped vehicles, density spikes and congestion
+- Interactive Streamlit dashboard supporting YouTube, uploaded video, webcam and RTSP inputs
 
 #### 📈 [Multi-Model Stock Price Forecasting Platform](https://github.com/Tanya-12114/stock-price-predictor.git)
 `Python` `Streamlit` `Pandas` `NumPy` `Scikit-learn`
@@ -73,6 +74,11 @@
 **Backend, Databases & Cloud**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+</p>
+
+**AI / Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,pandas,numpy" />
 </p>
 
 **Tools & DevOps**
