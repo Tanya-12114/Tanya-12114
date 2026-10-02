@@ -93,9 +93,11 @@
 ---
 
 <div align="center">
-
+### 🤝 Let's Connect
+ 
+Open to **SDE / Full Stack** roles and internships. The quickest way to reach me is LinkedIn or email, both at the top of this page.
+ 
 <i>B.Tech CSE student building practical, scalable solutions across Full-Stack Development & AI/ML 🚀</i>
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:0077B5&height=100&section=footer" width="100%"/>
-
 </div>
