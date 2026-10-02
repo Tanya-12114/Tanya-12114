@@ -39,7 +39,7 @@
 - REST APIs built with Node.js & Express.js to manage user data and resume templates
 - Responsive React.js interface for dynamic resume generation, backed by MongoDB
 
-<a href="[https://YOUR-RESUME-BUILDER-LIVE-URL](https://ai-resume-builder-three-psi.vercel.app/)"><img src="https://img.shields.io/badge/Live_Demo-%E2%86%92-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://ai-resume-builder-three-psi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-%E2%86%92-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 
 #### 🚦 [Real-Time Spatio-Temporal Traffic Density Forecasting](https://github.com/Tanya-12114/traffic-flow-prediction.git)
 `Python` `PyTorch` `YOLO11` `OpenCV` `Streamlit` `Plotly`
@@ -56,7 +56,7 @@
 - Data preprocessing and visualization with Pandas and Matplotlib
 - Interactive Streamlit interface for generating and comparing predictions
 
-<a href="[https://YOUR-STOCK-PREDICTOR-LIVE-URL](https://stock-price-predictorgit-jb8qrcyonqdppfvsjr8bbj.streamlit.app/)"><img src="https://img.shields.io/badge/Live_Demo-%E2%86%92-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://stock-price-predictorgit-jb8qrcyonqdppfvsjr8bbj.streamlit.app"><img src="https://img.shields.io/badge/Live_Demo-%E2%86%92-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 
 #### ✈️ [Voyagr - Travel Planning Platform](https://github.com/Tanya-12114/smart-travel-planner.git)
 `Next.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
@@ -64,7 +64,7 @@
 - JWT authentication and optimized REST APIs for secure, efficient data handling
 - Real-time weather API integration with a responsive, animated UI
 
-<a href="[https://YOUR-VOYAGR-LIVE-URL](https://smart-travel-planner-bay.vercel.app/)"><img src="https://img.shields.io/badge/Live_Demo-%E2%86%92-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://smart-travel-planner-bay.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-%E2%86%92-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 
 ---
 
